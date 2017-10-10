@@ -15,7 +15,7 @@ Quick start
 
 - Execute: Enter the directory "example", then run the file "run.sh".
 
-- Compile: Type "ant" to build, and the output file will be dist/sco.jar. 
+- Compile: Type "ant" to build, and the output file will be release/sco.jar. 
 
 - See source/problem for examples of constrain and unconstrained numerial optimization problem instances.
 
