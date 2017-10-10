@@ -23,8 +23,10 @@ Reference
 ---------
 
 [1] X.-F. Xie, W.-J. Zhang, Z.-L. Yang. Social cognitive optimization for nonlinear programming problems. International Conference on Machine Learning and Cybernetics. Beijing, China, 2002: 779-783
+
 [2] X.-F. Xie, W.-J. Zhang. Solving engineering design problems by social cognitive optimization. Genetic and Evolutionary Computation Conference, LNCS 3102, Seattle, WA, USA, 2004: 261-262
-[3] X.-F. Xie, J. Liu, Z.-J. Wang. A cooperative group optimization system. Soft Computing, 2014, 18(3): 469-495.
+
+[3] X.-F. Xie, J. Liu, Z.-J. Wang. A cooperative group optimization system. Soft Computing, 2014, 18(3): 469-495
 
 General information
 -------------------
