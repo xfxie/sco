@@ -1,7 +1,7 @@
-Software description
-====================
+Social cognitive optimization (SCO)
+===================================
 
-Social cognitive optimization (SCO) for solving numerical optimization problems.
+SCO is a population-based metaheuristic optimization algorithm for solving numerical optimization problems.
 
 License description
 -------------------
