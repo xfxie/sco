@@ -5,7 +5,7 @@ SCO is a population-based metaheuristic optimization algorithm for solving numer
 
 <img src="https://github.com/xfxie/sco/blob/master/image/nop.png" width="50%" />
 
-where f(x) is the objective function and each g_i_(x) is a constraint function to be satisfied, and _c_ and _d_ are constants. All the functions can be nonlinear and nonsmooth.
+where f(x) is the objective function and each g(x) is a constraint function to be satisfied, and _c_ and _d_ are constants. All the functions can be nonlinear and nonsmooth.
 
 General information
 -------------------
