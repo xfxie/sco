@@ -5,10 +5,6 @@ SCO is a population-based metaheuristic optimization algorithm for solving numer
 
 ![Screenshot](https://github.com/xfxie/sco/blob/master/image/nop.png)
 
-See the [Creative Commons Non-Commercial License 3.0](https://creativecommons.org/licenses/by-nc/3.0/us/) for more details.
-
-Please acknowledge the author(s) if you use this code in any way.
-
 Quick start
 -----------
 
@@ -23,3 +19,12 @@ General information
 
 Portal: http://www.wiomax.com/sco
 E-MAIL: xie@wiomax.com
+
+
+License
+-------
+
+See the [Creative Commons Non-Commercial License 3.0](https://creativecommons.org/licenses/by-nc/3.0/us/) for more details.
+
+Please acknowledge the author(s) if you use this code in any way.
+
