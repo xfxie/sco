@@ -3,9 +3,9 @@ Social Cognitive Optimization (SCO)
 
 SCO is a population-based metaheuristic optimization algorithm for solving numerical optimization problems.
 
-<img src="https://github.com/xfxie/sco/blob/master/image/nop.png" width="70%" />
+<img src="https://github.com/xfxie/sco/blob/master/image/nop.png" width="300" />
 
-![Screenshot](https://github.com/xfxie/sco/blob/master/image/nop.png | width=400)
+where g(x) and h(x) are equality and inequality constraints.
 
 Quick start
 -----------
