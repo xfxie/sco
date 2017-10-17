@@ -16,7 +16,7 @@ E-MAIL: xie@wiomax.com
 Quick start
 -----------
 
-- Execute: Enter the directory "[example](https://github.com/xfxie/sco/tree/master/example)", then run the file "run.sh".
+- Execute: Enter the directory "example", then run the file "run.sh".
 
 - Compile: Type "ant" to build, and the output file will be release/sco.jar. 
 
