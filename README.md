@@ -11,7 +11,7 @@ General information
 -------------------
 
 Portal: http://www.wiomax.com/sco
-E-MAIL: xie@wiomax.com
+E-MAIL: Xiao-Feng Xie <xie@wiomax.com>
 
 Quick start
 -----------
