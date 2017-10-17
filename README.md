@@ -7,6 +7,11 @@ SCO is a population-based metaheuristic optimization algorithm for solving numer
 
 where g(x) and h(x) are equality and inequality constraints.
 
+General information
+-------------------
+
+Portal: http://www.wiomax.com/sco   E-MAIL: xie@wiomax.com
+
 Quick start
 -----------
 
@@ -15,13 +20,6 @@ Quick start
 - Compile: Type "ant" to build, and the output file will be release/sco.jar. 
 
 - See source/problem for examples of constrain and unconstrained numerial optimization problem instances.
-
-General information
--------------------
-
-Portal: http://www.wiomax.com/sco
-E-MAIL: xie@wiomax.com
-
 
 License
 -------
