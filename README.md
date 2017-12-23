@@ -1,7 +1,7 @@
 Social Cognitive Optimization (SCO)
 ===================================
 
-SCO is a population-based metaheuristic optimization algorithm simulating the dynamic process of social cognition. It can be incorporated into [cooperative group optimization](http://www.wiomax.com/optimization) (CGO) system.
+SCO is a population-based metaheuristic optimization algorithm simulating the dynamic process of social cognitive theory (SCT). It can be incorporated into [cooperative group optimization](http://www.wiomax.com/optimization) (CGO) system.
 
 The [SCO paper](http://www.wiomax.com/team/xie/paper/ICMLC02A.pdf) has been [cited](https://scholar.google.com/scholar?cites=4791188436623784067,8530045607228404517) over 70 times with various applications. SCO was also implemented (by Sun Microsystems Inc.) into [NLPSolver](https://wiki.openoffice.org/wiki/NLPSolver) (Solver for Nonlinear Programming), an extension of Calc in Apache OpenOffice.
 
